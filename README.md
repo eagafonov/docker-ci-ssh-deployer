@@ -1,7 +1,7 @@
 SSH Deployer for Gitlab-CI
 ==========================
 
-Deploy helper to sun SSH commands in secure manner.
+Deploy helper to run SSH commands in secure manner.
 
 Private SSH key need to be specified in SSH_KEY_DEPLOYER [secret variables](https://docs.gitlab.com/ce/ci/variables/README.html#secret-variables).
 
