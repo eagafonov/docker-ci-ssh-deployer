@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.7
 MAINTAINER e.a.agafonov@gmail.com
 
 RUN apk add --no-cache \
