@@ -4,7 +4,8 @@ MAINTAINER e.a.agafonov@gmail.com
 RUN apk add --no-cache \
     openssh \
     bash \
-    git
+    git \
+    curl
 
 RUN adduser -D  safeuser -s /bin/bash
     
